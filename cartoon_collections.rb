@@ -7,7 +7,7 @@ def roll_call_dwarves# code an argument here
   (/5.*Sloopy/)
   (/6.*Thrifty/)
   (/7.*Benny/)
-   output = capture_stdout
+   p output = capture_stdout
 end
 
 def summon_captain_planet# code an argument here
