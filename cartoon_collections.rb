@@ -1,5 +1,5 @@
 def roll_call_dwarves# code an argument here
-  dwarves = ["Dopey", "Grumpy", "Bashful"]
+  dwarves = ["Dopey", "Grumpy", "Bashful", "Poopy", "Sloopy", "Thrity", "Benny"]
   (/1.*Dopey/)
   (/2.*Grumpy/)
   (/3.*Bashful/)
