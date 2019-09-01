@@ -3,6 +3,7 @@ def roll_call_dwarves# code an argument here
   (/1.*Dopey/)
   (/2.*Grumpy/)
   (/3.*Bashful/)
+   output = capture_stdout
 end
 
 def summon_captain_planet# code an argument here
