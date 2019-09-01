@@ -1,5 +1,8 @@
 def roll_call_dwarves# code an argument here
-  dwarves = ["Dopey", "Grumpy", "Bashful", "Poopy", "Mya", "Kornell"]
+  dwarves = ["Dopey", "Grumpy", "Bashful"]
+  (/1.*Dopey/)
+  (/2.*Grumpy/)
+  (/3.*Bashful/)
 end
 
 def summon_captain_planet# code an argument here
